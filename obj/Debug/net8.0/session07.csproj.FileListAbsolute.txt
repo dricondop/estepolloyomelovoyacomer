@@ -2,3 +2,4 @@ C:\Users\downy\Documents\SDU\OOP\C# LESSONS\session07\obj\Debug\net8.0\session07
 C:\Users\downy\Documents\SDU\OOP\C# LESSONS\session07\obj\Debug\net8.0\session07.AssemblyInfoInputs.cache
 C:\Users\downy\Documents\SDU\OOP\C# LESSONS\session07\obj\Debug\net8.0\session07.AssemblyInfo.cs
 C:\Users\downy\Documents\SDU\OOP\C# LESSONS\session07\obj\Debug\net8.0\session07.csproj.CoreCompileInputs.cache
+C:\Users\downy\Documents\SDU\OOP\C# LESSONS\session07\obj\Debug\net8.0\session07.sourcelink.json
